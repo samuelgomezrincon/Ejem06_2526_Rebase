@@ -5,3 +5,9 @@ Primera modificación
 Segunda modificación
 Tercera modificación
 >>>>>>> 1ce7150 (Tercera modificación)
+<<<<<<< HEAD
+=======
+Cuarta modificación
+Quinta modificación
+Sexta modificación
+>>>>>>> 61b1a37 (Sexta modificación)
